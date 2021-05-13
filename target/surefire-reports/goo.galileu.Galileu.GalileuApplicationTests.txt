@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: goo.galileu.Galileu.GalileuApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.283 s <<< FAILURE! - in goo.galileu.Galileu.GalileuApplicationTests
+goo.galileu.Galileu.GalileuApplicationTests  Time elapsed: 0.28 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
