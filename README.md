@@ -3,7 +3,7 @@
  
 ## Description
 
-Create a JWT Tokken here ["JWT"](http://jwt-java-example.herokuapp.com/)  
+Create a JWT Tokken here in  ["HEROKU"](http://jwt-java-example.herokuapp.com/)  
 
 
 ### How do receive a JWT tokken?
