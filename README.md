@@ -8,19 +8,19 @@ Create a JWT Tokken here in  ["HEROKU"](https://jwt-java-example.herokuapp.com/a
 
 ### How do receive a JWT tokken?
 
-How do receive a JWT token? 
+Send a post request:
 
     POST https://jwt-java-example.herokuapp.com/api/login
     Accept: application/json
 
-Example JSON:
+With an Example JSON:
 
     {
         "username": "John Doe",
         "password": "123" 
     }
 
-The Response is the json representation of the tokenInfo with the client name.
+The Response is the json representation of the JWT Tokken with the client name.
 
 ## Stay in touch
 
